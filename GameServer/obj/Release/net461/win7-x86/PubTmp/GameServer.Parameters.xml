@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="GameServerOBJPR" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\User\\Desktop\\Uni\\7\ Semestras\\Objektinis\\OBJPR\\GameClient2\\obj\\Release\\net461\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

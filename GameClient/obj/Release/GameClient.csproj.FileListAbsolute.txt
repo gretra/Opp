@@ -1,0 +1,370 @@
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\GameServer.exe
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\netstandard.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Interactive.Async.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Remotion.Linq.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Memory.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.WebEncoders.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\GameServer.pdb
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\GameServer.exe.config
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\GameClient.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\GameClient.Form1.resources
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\GameClient.csproj.CopyComplete
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\GameServer.exe
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\netstandard.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Net.Http.Headers.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Interactive.Async.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Remotion.Linq.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Collections.Immutable.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Reflection.Metadata.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Memory.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cors.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\GameServer.pdb
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\GameServer.exe.config
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\GameClient.csprojAssemblyReference.cache
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\GameClient.Form1.resources
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\GameClient.csproj.CopyComplete
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe
+C:\Users\Ernestukas\Documents\GitHub\OPP-projektas\OBJPR\GameClient\obj\Release\WindowsFormsApp1.pdb
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\app.config
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\appsettings.Development.json
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\appsettings.json
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Properties\launchSettings.json
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\WindowsFormsApp1.exe
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\WindowsFormsApp1.pdb
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\GameServer.exe
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\netstandard.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Net.Http.Headers.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Buffers.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyModel.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Interactive.Async.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Remotion.Linq.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Collections.Immutable.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Reflection.Metadata.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.ObjectPool.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Console.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Memory.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Numerics.Vectors.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.WebEncoders.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Extensions.Localization.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cors.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\GameServer.pdb
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\GameServer.exe.config
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\GameClient.csprojAssemblyReference.cache
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\GameClient.Form1.resources
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\GameClient.csproj.CopyComplete
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\WindowsFormsApp1.exe
+C:\Users\krist\OneDrive\Desktop\bendras\OPP-projektas-master\OBJPR\GameClient\obj\Release\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Buffers.dll
+C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\github\OBJPR\GameClient\bin\Release\System.Numerics.Vectors.dll
