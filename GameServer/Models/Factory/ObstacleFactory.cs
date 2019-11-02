@@ -8,26 +8,23 @@ namespace GameServer.Models.Factory
     public class ObstacleFactory : Factory
     {
 
-        public Obstacle createObstacle(String input)
+        public override Obstacle createObstacle(String input, int life_points)
         {
             if (input.Equals("R"))
             {
-                return new Red(1, 100);
+                return new Red(1, life_points);
             }
             if (input.Equals("B"))
             {
-                return new Blue(2, 200);
+                return new Blue(2, life_points);
             }
             if (input.Equals("G"))
             {
-                return new Green(3, 300);
+                return new Green(3, life_points);
             }
             return null;
         }
 
-        public override Obstacle createObstacle(int input1, int input2)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }

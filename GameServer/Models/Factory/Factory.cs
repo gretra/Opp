@@ -7,6 +7,6 @@ namespace GameServer.Models.Factory
 {
     public abstract class Factory
     {
-       public abstract Obstacle createObstacle(int input1, int input2);
+       public abstract Obstacle createObstacle(String id, int life_points);
     }
 }

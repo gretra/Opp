@@ -7,10 +7,9 @@ namespace GameServer.Models.Factory
 {
     public class Green : Obstacle
     {
-        public Green(int id, int life_points)
+        public Green(int id, int life_points) : base(id, life_points)
         {
-            this.id = id;
-            this.life_points = life_points;
+
         }
     }
 }

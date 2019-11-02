@@ -119,3 +119,11 @@ C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\WindowsFormsApp1\bin\Debu
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\WindowsFormsApp1\obj\Debug\GameClient.csproj.CopyComplete
+F:\Opp\GameClient\obj\Debug\GameClient.csprojAssemblyReference.cache
+F:\Opp\GameClient\obj\Debug\WindowsFormsApp1.exe.config
+F:\Opp\GameClient\obj\Debug\GameClient.Form1.resources
+F:\Opp\GameClient\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Opp\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+F:\Opp\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+F:\Opp\GameClient\obj\Debug\WindowsFormsApp1.exe
+F:\Opp\GameClient\obj\Debug\WindowsFormsApp1.pdb

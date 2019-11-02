@@ -321,3 +321,13 @@ C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\GameClient2\obj\Debug\net
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\GameClient2\obj\Debug\net461\GameServer.exe
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\GameClient2\obj\Debug\net461\GameServer.pdb
 C:\Users\User\Desktop\Uni\7 Semestras\Objektinis\OBJPR\GameClient2\obj\Debug\net461\UserSecretsAssemblyInfo.cs
+F:\Opp\GameServer\obj\Debug\net461\GameServer.csprojAssemblyReference.cache
+F:\Opp\GameServer\obj\Debug\net461\GameServer.exe.config
+F:\Opp\GameServer\obj\Debug\net461\GameServer.csproj.CoreCompileInputs.cache
+F:\Opp\GameServer\obj\Debug\net461\GameServer.RazorAssemblyInfo.cache
+F:\Opp\GameServer\obj\Debug\net461\GameServer.RazorAssemblyInfo.cs
+F:\Opp\GameServer\obj\Debug\net461\UserSecretsAssemblyInfo.cs
+F:\Opp\GameServer\obj\Debug\net461\GameServer.AssemblyInfoInputs.cache
+F:\Opp\GameServer\obj\Debug\net461\GameServer.AssemblyInfo.cs
+F:\Opp\GameServer\obj\Debug\net461\GameServer.exe
+F:\Opp\GameServer\obj\Debug\net461\GameServer.pdb

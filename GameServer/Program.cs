@@ -13,11 +13,7 @@ namespace GameServer
 {
     public class Program
     {
-        private static Factory factory;
-
-        private static Obstacle red;
-        private static Obstacle blue;
-        private static Obstacle green;
+       
 
         public static void Main(string[] args)
         {

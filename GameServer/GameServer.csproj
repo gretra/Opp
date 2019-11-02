@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Models\Observer\**" />
+    <Compile Remove="Models\Obstacles\**" />
+    <Content Remove="Models\Observer\**" />
+    <Content Remove="Models\Obstacles\**" />
+    <EmbeddedResource Remove="Models\Observer\**" />
+    <EmbeddedResource Remove="Models\Obstacles\**" />
+    <None Remove="Models\Observer\**" />
+    <None Remove="Models\Obstacles\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="2.1.7" />
     <PackageReference Include="Microsoft.AspNetCore.CookiePolicy" Version="2.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.HttpsPolicy" Version="2.1.1" />
@@ -16,8 +27,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Observer\" />
-    <Folder Include="Models\Obstacles\" />
     <Folder Include="Views\" />
   </ItemGroup>
 
